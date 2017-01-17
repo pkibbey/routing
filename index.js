@@ -1,4 +1,5 @@
 window.addEventListener('hashchange', () => {
+
   // Output current hash
   console.log('complete hash = ', window.location.hash);
 
